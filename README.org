@@ -4,6 +4,6 @@ Provides support for UUIDs as proper values
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://github.com/deterministic-arts/DartsCLUUID.git |
-| commit  | 0779af2                                                   |
+| commit  | 19ccdb5                                                   |
 | systems | darts.lib.uuid                                            |
 |---------+-----------------------------------------------------------|
